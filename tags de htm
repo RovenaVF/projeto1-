@@ -1,0 +1,11 @@
+tags
+<html>: define o início do documento HTML
+<head>: define informações sobre o documento, como título, links para CSS e JavaScript, meta tags etc.
+<title>: define o título do documento, que aparece na guia do navegador
+<body>: define o conteúdo principal do documento
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6>: define títulos e subtítulos, com diferentes níveis de importância
+<p>: define parágrafos de texto
+<a>: cria um link para outra página ou recurso
+<img>: insere uma imagem na página
+<ul> e <li>: cria listas não ordenadas (com marcadores) e listas ordenadas (com números ou letras)
+<div> e <span>: são usados para criar blocos e elementos em linha, que podem ser estilizados com CSS
