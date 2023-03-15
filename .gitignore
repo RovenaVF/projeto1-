@@ -1,0 +1,6 @@
+Gemfile.lock
+.env
+# Ignore RubyMine's files
+/.idea
+
+test.rb
